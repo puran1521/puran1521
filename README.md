@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puran1521
 - 👀 I’m interested in Automobile Industry and Technology
-- 🌱 I’m currently learning Cloud Computing and CAD/CAM Softwares
+- 🌱 I’m currently learning 3d modeling and CAD Softwares
 - 📫 How to reach me : My Email Adress - sanpuranpatel1521@gmail.com
 
 <!---
