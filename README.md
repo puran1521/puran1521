@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @puran1521
-- 👀 I’m interested in Automobile Industry and Technology
-- 🌱 I’m currently learning 3d modeling and CAD Softwares
+- 👋 Hi, I’m Puran Patel
+- 👀 I’m interested in Python Development. 
+- 🌱 I’m have knowledge of Python, C++, ML(Pandas, Numpy, Linear Regression)
 - 📫 How to reach me : My Email Adress - sanpuranpatel1521@gmail.com
 
 <!---
