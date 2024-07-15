@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Puran Patel
-- 👀 I’m interested in Python Development. 
-- 🌱 I’m have knowledge of Python, C++, ML(Pandas, Numpy, Linear Regression)
+- 👀 I’m interested in Game Development. 
+- 🌱 I have knowledge of Python, C++, SQL, Linux
 - 📫 How to reach me : My Email Adress - sanpuranpatel1521@gmail.com
 
 <!---
